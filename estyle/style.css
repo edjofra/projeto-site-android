@@ -30,6 +30,7 @@
 body {
     background-color: var(--cor0);
     font-family: var(--fonte-padrão);
+    min-width: 427px;
     
 }
 
